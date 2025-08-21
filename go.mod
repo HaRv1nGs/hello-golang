@@ -1,3 +1,3 @@
 module github.com/HaRv1nGs/hello-golang
 
-go 1.23.3
+go 1.22.12
